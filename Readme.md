@@ -12,4 +12,5 @@ Platforms: Windows, Linux
 Frameworks/Libraries/Tools: Spring framework, Hibernate, Angular, React, Bootstrap
 Languages: Java/Java EE, JavaScript, TypeScript, HTML, CSS
 Databases: MySQL, PostgreSQL, NoSQL
+Version Control: Git, GitHub
 Cloud Services/DevOps: AWS, Terraform, Ansible, Jenkins, Kubernetes, Azure, Docker, Prometheus
